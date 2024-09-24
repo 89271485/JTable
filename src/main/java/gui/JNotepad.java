@@ -128,5 +128,4 @@ public class JNotepad extends JFrame{
         add(scrollEditor);
         txtEditor.setFont(new Font("Arial", Font.PLAIN, 20));
     }
-    
 }
